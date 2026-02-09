@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres" />
 </p>
 
 
