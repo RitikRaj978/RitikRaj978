@@ -1,8 +1,7 @@
 <p align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=600&color=0EA5E9&center=true&vCenter=true&width=850&lines=Hi%2C+I+am+Ritik+Raj;Software+Developer;AI+and+Deep+Learning+Engineer;Backend+Engineer;Django+%7C+FastAPI+%7C+Ollama;Always+Learning+New+Things)
-
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ritik+Raj;Software+Developer;AI+%26+Deep+Learning+Engineer;Backend+Engineer;Django+%7C+FastAPI+%7C+Ollama;Always+Learning+New+Things" />
 </p>
+
 
 
 
