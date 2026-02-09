@@ -1,18 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code
-&size=26
-&pause=1000
-&color=38BDF8
-&center=true
-&vCenter=true
-&width=800
-&lines=Hi%2C+I'm+Ritik+Raj;
-Software+Developer;
-AI+%26+Deep+Learning+Engineer;
-Backend+Engineer;
-Django+%7C+FastAPI+%7C+Ollama;
-Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ritik+Raj;Software+Developer;AI+%26+Deep+Learning+Engineer;Backend+Engineer;Django+%7C+FastAPI+%7C+Ollama;Always+Learning+New+Things" />
 </p>
 
 ## 👋 Hi, I'm Ritik Raj
